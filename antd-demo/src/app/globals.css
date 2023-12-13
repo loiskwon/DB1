@@ -1,0 +1,10 @@
+
+.container {
+    columns: 2 auto;
+    column-gap: 50px;
+  }
+
+section {
+    display: flex;
+    column-gap: 20px;
+}
